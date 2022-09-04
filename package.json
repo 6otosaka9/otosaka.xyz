@@ -1,7 +1,17 @@
 {
   "dependencies": {
+    "@yimura/scraper": "^1.2.3",
     "axios": "^0.27.2",
-    "express": "^4.18.1"
+    "cfonts": "^3.1.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "duckduckgo-images-api": "^1.0.5",
+    "express": "^4.18.1",
+    "moment-timezone": "^0.5.37",
+    "morgan": "^1.10.0",
+    "ssl-express-www": "^3.0.10",
+    "ytdl-core": "^4.11.2"
   },
   "name": "otosaka.xyz",
   "version": "1.0.0",
